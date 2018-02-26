@@ -5,12 +5,12 @@ We also analysed predict step ahead (*m*) which is not a parameter but a user re
 
 
 # Usage of Code
-(TODO)
+(The code will be updated.)
 
 
 # Results
 The analyses indicate that the relations among parameters are compound especially when traffic low states are considered.
-We suggest considering all parameter strategies simultaneously as ensemble strategies especially by including *v* together with *k* and *d* in low-aware strategies
+We suggest considering all parameter strategies simultaneously as ensemble strategies especially by including *v* together with *k* and *d* in flow-aware strategies
 
 ![](./_image/effectKOnGd.png)
 
