@@ -46,5 +46,5 @@ We suggest considering all parameter strategies simultaneously as ensemble strat
 ```
 
 # Paper
-The full-text paper is available on [Github](https://github.com/SunnyBingoMe/sun2017overview-github-public), [Diva](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-15210) and [ResearchGate](https://www.researchgate.net/publication/316940475_An_Overview_of_Parameter_and_Data_Strategies_for_k-Nearest_Neighbours_Based_Short-Term_Traffic_Prediction).
+The full-text paper is available on [Github](https://github.com/SunnyBingoMe/sun2017overview-github-public/blob/master/sun2017overview%20CD039_main-fixed-title-fig-fonts.pdf), [Diva](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-15210) and [ResearchGate](https://www.researchgate.net/publication/316940475_An_Overview_of_Parameter_and_Data_Strategies_for_k-Nearest_Neighbours_Based_Short-Term_Traffic_Prediction).
 
