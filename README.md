@@ -16,7 +16,7 @@ We suggest considering all parameter strategies simultaneously as ensemble strat
 
 ![](./_image/flowSegment.png)
 
-![](./_image/flowChangeWithLevelParamV.png)
+![](./_image/flowSegmentParamValueRegardingM.png)
 
 ![](./_image/dataStrategy.png)
 
